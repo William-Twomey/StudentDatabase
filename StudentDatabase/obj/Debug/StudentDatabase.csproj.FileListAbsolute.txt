@@ -1,0 +1,13 @@
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.dll
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.xml
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CopyComplete
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+C:\Users\will2\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
